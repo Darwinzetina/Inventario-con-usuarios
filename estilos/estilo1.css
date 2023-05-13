@@ -1,0 +1,17 @@
+.cuadro{
+    width: 800px;
+    height: 900px;
+	background: #FF0000;
+    position: relative;
+    left: 490px;
+    top: 130px;
+}
+
+.variable{
+    width: 500px;
+    height: 200px;
+	background:#FF0000
+	position: relative;
+    left: 500px;
+    top: 200px;
+}
